@@ -13,4 +13,12 @@ jupyter
 ipykernel
 
 torch
+torchvision
+
+tqdm
+requests
+
+jupyter
+ipykernel
+
 sentence-transformers
