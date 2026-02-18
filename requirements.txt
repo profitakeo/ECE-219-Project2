@@ -2,13 +2,15 @@
 
 numpy
 pandas
-
+ 
 matplotlib
 
 scikit-learn
-umap
+umap-learn
+hdbscan
 
 jupyter
 ipykernel
 
+torch
 sentence-transformers
