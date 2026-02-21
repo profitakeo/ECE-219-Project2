@@ -5,27 +5,28 @@
 - Joel Hernandez
 - Profita Keo
 
-## Setup
+## Setup and Run Instructions
 
-### 1. Install Dependencies
+Run the following commands from the project directory:
+
 ```bash
+# Install dependencies
 pip install -r requirements.txt
-```
 
-### 2. Download Required Data Files
-The project requires the following Steam Game Review dataset files:
-- `main.csv`
-- `heldout.csv`
+# Make sure the following files are in the project directory:
+# main.csv
+# heldout.csv
 
-### 3. Run the Notebook
-Open a terminal in the project directory and run:
-```bash
-jupyter notebook project2_solution.ipynb
-```
+# Run notebook for Questions 1–12
+jupyter notebook q1_12_project_2.ipynb
 
-Alternatively, use JupyterLab:
-```bash
-jupyter lab project2_solution.ipynb
-```
+# Run notebook for Questions 13–19
+jupyter notebook q13-19_project_2.ipynb
 
-You can also run it using **Google Colab**.
+# Run notebook for Questions 20–23
+jupyter notebook q20_q23_project_2.ipynb
+
+# Alternatively, you can use JupyterLab
+jupyter lab q1_12_project_2.ipynb
+jupyter lab q13-19_project_2.ipynb
+jupyter lab q20_q23_project_2.ipynb
